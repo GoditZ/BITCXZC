@@ -1,0 +1,50 @@
+*{
+
+}
+.wrapper{
+
+}
+.menu{
+
+font-size: 25px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 19px;
+}
+body{
+    background:rgb(243, 210, 166);
+    background-blend-mode: multiply;
+}
+.img{
+
+}
+.panel_button{
+    text-align: center;
+    border: 2px solid #0f0f0f;
+    border-radius: 3px;
+    width: 150px;
+    font-size: 25PX;
+    background-color: #f1fa73fd;
+    margin-left: 20px;
+    margin-right: 20px;
+    transition-duration: 1s;
+}
+.panel_button:hover{
+    background-color:  #ffffff;
+    color:#000000;
+}
+.frame1{
+
+}
+.frame2{
+
+}
+.frame3{
+
+}
+.frame4{
+    
+}
